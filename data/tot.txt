@@ -1,0 +1,485 @@
+Pen or Pencil
+Dog or Cat
+Netflix or YouTube
+Call or Text
+Toast or Eggs
+Cardio or Weights
+Facebook or Twitter
+Music or Podcasts
+iOS or Android
+Pop or Indie
+Cake or Pie
+Swimming or Sunbathing
+High-tech or Low-tech
+Rich Friend or Loyal Friend
+Football or Basketball
+Work Hard or Play Hard
+Jogging or Hiking
+Bath or Shower
+Sneakers or Sandals
+Glasses or Contacts
+Hamburger or Taco
+Couch or Recliner
+Shopping: Online or In-Person
+Receive: Email or Letter
+Passenger or Driver
+Tablet or Computer
+Blue or Red
+Money or Time
+Amusement Park or Beach
+Coke or Pepsi
+Blinds or Curtain
+Train or Plane
+Iced Coffee or Hot Coffee
+Fruits or Vegetables
+Save or Spend
+TV or Book
+Ocean or Mountains
+City or Countryside
+Horror or Comedy
+Winter or Summer
+Mac or PC
+Console Gaming or PC Gaming
+Soup or Sandwich
+Card Game or Board Game
+Traditional Art or Digital Art
+Beer or Wine
+Dine In or Delivery
+Sweater or Hoodie
+Comic Book or Comic Strips
+Motorcycle or Bicycle
+Book or E-Book
+Ninjas or Pirates
+Movie or TV Show
+Cookies or Cake
+Pop or Rock
+Pancakes or Waffles
+Morning or Evening
+Day or Night
+Library or Museum
+French or Spanish
+Love or Money
+Chocolate or Vanilla
+Tea or Coffee
+Rain or Snow
+Car or Motorcycle
+Boat or Plane
+Painting or Drawing
+Reading or Writing
+Singing or Dancing
+Flowers or Trees
+Superman or Batman
+Milk or Juice
+Gold or Silver
+Music: 50's or 80's
+Google or Bing
+Frozen Yogurt or Ice Cream
+Eyes: Blue or Green
+Witches or Wizards
+Fire or Ice
+Hair: Straight or Curly
+Vegetarian or Non-Vegetarian
+Pandas or Whales
+Roses or Daisies
+Circles or Squares
+Piercings or Tattoos
+Sandals or Sneakers
+Apples or Oranges
+Weird or Crazy
+Skates or Bike
+Skiing or Snowboarding
+Sports: Watch or Play
+Swim: Pool or Sea
+Sweet or Salty
+Breakfast or Dinner
+Whatsapp or Telegram
+Watch: Digital or Analog
+Freedom or Hope
+Snow White or Cinderella
+Sitting or Standing
+Comedy or Drama
+Hot or Cold
+Pasta or Pizza
+Family or Friends
+Scooby Doo or Tom and Jerry
+Cuddle or Sleep
+Telepathy or Teleportation
+Mansion or Cabin
+Rap or Rock
+Hair: Long or Short
+Serious or Funny
+Hot or Pretty
+Hugs or Kisses
+Mom or Dad
+Houseboat or Yacht
+Fact or Fiction
+Soap: Liquid or Bar
+Higher Studies or Work
+Rain or Sunshine
+Death: Instant or Prolonged
+Work Sector: Government or Private
+Thunderstorm or Snowstorm
+Doctor or Engineer
+Wax or Shave
+Boss or Worker
+Fast or Slow
+Doctor or Patient
+Introvert or Extrovert
+Cry or Scream
+Alcohol or Weed
+Formals or Casuals
+Work: From Home or Commute
+Work: Alone or In a Team
+Trip or Staycation
+Gifts: Handmade or Bought
+Modern or Rustic
+Extravagant or Minimalist
+Comfort or Style
+Sinful or Righteous
+Festivals: Art or Music
+Hurt or Dead
+Forest or Beach
+Cable or Satelite
+Truth or Lies
+Strange or Crazy
+Concerts or Movies
+Abs or Chest
+Smile or Eyes
+Cycle or Walk
+Chandelier or Lamp
+Country: Own or Abroad
+Evil or Good
+Antique or New
+Kids: Twins or Single
+Shower: Morning or Evening
+Mountain or Hills
+Marvel or DC
+Lost or Found
+Carnivore or Herbivore
+Cold or Flu
+Stories: Horror or Mystery
+Carnival or Circus
+Camping or Safari
+Fishing or Kayaking
+Skydive or Bungee Jump
+Park: Theme or Water
+Bowling or Mini-Golf
+Spa or Gym
+Simpsons or Family Guy
+Drunk or Sober
+Indoor or Outdoor
+Sunrise or Sunset
+Beard or Clean-Shaved
+Sports or Video-Games
+Image or Video
+Dishes or Laundry
+Spiders or Snakes
+Rap Music or Country Music
+Sneeze or Hiccup
+Time Travel or Space Travel
+Comfortable Silence or Incredible Conversation
+Son or Daughter
+Fame or Money
+Albert Einstein or Isaac Newton
+Ancient Greece or Ancient Rome
+Apartment or House
+Aquarium or Zoo
+Cyborg or Human
+Dragon or Unicorn
+Hero or Villian
+Ninja or Samurai
+Ruler or Follower
+Fly or Teleport
+Broke or Dead
+Loved or Feared
+Wise or Intelligent
+Bill Gates or Mark Zuckerberg
+Eggs: Boiled or Fried
+Brush or Comb
+Burgers or Pizzas
+Cardio or Weights
+Cambridge or Harvard
+Flats or Heels
+Give or Receive
+Harry Potter or Hunger Games
+Instagram or Snapchat
+The Avengers or The Justice League
+Mafia or Street Gang
+Kill or Be Killed
+Linux or Windows
+London or Paris
+Nails: Long or Short
+Overdressed or Underdressed
+Piano or Guitar
+Rent or Buy
+Speed or Precision
+Autumn or Spring
+Star Wars or Star Trek
+Sun or Moon
+Talk or Listen
+Taj Mahal or Eiffel Tower
+Call: Video or Audio
+Truth or Dare
+Rome or Paris
+Tesla or SpaceX
+Zombie Outbreak or Alien Invasion
+Vacation or staycation?
+Netflix or Hulu?
+Night or morning?
+Rich and famous or rich and unknown?
+Passenger or driver?
+Art museum or history museum?
+Car or bike?
+Train or airplane?
+Owe money or owe a favor?
+Coffee or tea?
+Be embarrassed or be afraid?
+City or countryside?
+Smartphone or tablet?
+Wine or Beer?
+Camping or glamping?
+Cooking or being cooked for?
+Play or standup show?
+Roommates or live alone?
+Attend a party or host a party?
+Lose sleep or skip a meal?
+Hang out with little kids or old folks?
+Sweating or shivering?
+Ambition or comfort?
+Sneakers or dress shoes?
+Fiction or nonfiction?
+Cash or credit?
+Espresso or drip coffee?
+Hot coffee or iced coffee?
+Patterned or plain?
+Reality shows or documentaries?
+Red wine or white wine?
+Salad or sandwich?
+Bad haircut or bad dye job?
+Pineapple pizza or candy corn?
+Talking pets or talking babies?
+Winning the lottery or finding your soulmate?
+Misquoted movies or mistaken lyrics?
+Test the waters or dive in the deep end?
+Glass half full or glass half empty?
+Ketchup or ranch?
+Phone in bathroom or no phone in bathroom?
+Sort by price or by rating?
+Sauce on the side or sauce on top?
+Crunchy peanut butter or smooth peanut butter?
+Zombies or vampires?
+Funny story or one-liner?
+Bad breath or body odor?
+Working hard or hardly working?
+Sneezing or coughing?
+Air guitar or air drums?
+Robots or dinosaurs?
+Guacamole or salsa?
+Boxers or briefs?
+Fainting or spit take?
+Speeding ticket or parking ticket?
+Comedian in serious film or serious actor in comedy film?
+Silly hats or silly socks?
+Instagram famous or infomercial famous?
+A store where every item is free or a restaurant where every dish is calorie free?
+Passwords or secret handshakes?
+Loud neighbors or nosey neighbors?
+Babies dressed as animals or animals dressed as humans?
+Start assignments immediately or wait until the last minute?
+English or Math?
+Gym or Art?
+Science or History?
+Group work or solo work?
+Art projects or science projects?
+Forget your pencil or forget a notebook?
+Teacher reads your text message aloud or teacher tells the whole class your grade?
+Drive to school or take the bus?
+Messy locker or tidy locker?
+Pen or pencil?
+Multiple choice or essay?
+Physical planners or digital planners?
+Save as you go, or save at the end?
+USB backup or Cloud storage?
+Home school or classroom learning?
+Field trips or field days?
+Win a race or win a debate?
+Spelling bee or math bee?
+Homework or classwork?
+Big class or small class?
+Desks or tables?
+Recess or lunch?
+Poem or story?
+Recent history or ancient history?
+Chemistry or biology?
+Geometry or algebra?
+Football game or basketball game?
+Cheerleader or mascot?
+Prom or homecoming?
+College or high school?
+Dogs or cats?
+Big family or small family?
+Big wedding or small wedding?
+Messy or tidy?
+Planning or winging it?
+Arrive early or arrive late?
+Night out or night in?
+Food truck or restaurant?
+Fast food or health food?
+Dine in or order delivery?
+Coffee date or cocktail date?
+Concert or sports game?
+Funny movie or dramatic movie?
+Calling or texting?
+Split the bill or take turns paying?
+Family or friends?
+Expensive gift or homemade gift?
+Sleeping with the bedroom door closed or open?
+Vegetarian or meat-eating?
+Couch potato or fitness fiend?
+Eggs or pancakes?
+Toilet paper over or under?
+Talking or listening?
+Walk slow or walk fast?
+Looks or personality?
+Clean as you cook or clean up at the end?
+Call first thing in the morning or call in the middle of the night?
+Board games or video games?
+Photos or videos?
+Social media message or text message?
+Take a friend on your family vacation or join a friend on their family vacation?
+Group hangout or one-on-one hangout?
+French fries or onion rings?
+Share food or don’t share food?
+Give a ride or hitch a ride?
+Paypal or Venmo?
+Instagram or Twitter?
+Shopping online or shopping in-store?
+Tattoos or piercings?
+Store-bought or homemade?
+Plans or surprises?
+Pizza or Chinese food?
+Books or movies?
+Roller coasters or water slides?
+Souvenirs or postcards?
+Letter or emails?
+Android or iPhone?
+Brand name or generic?
+Bargain or top-shelf?
+Loud or quiet?
+Protagonist or sidekick?
+Girl friends or guy friends?
+Animals or people?
+Weekends or holidays?
+Day or night?
+Watch sports or play sports?
+Driving fast or driving slow?
+Start work late or leave work early?
+Work from the office or work from home?
+Free lunch or free dessert?
+Video meetings or in-person meetings?
+Messy desk or clean desk?
+Snack stash or stationary stash?
+Win the lottery or land your dream job?
+Angry client or angry coworker?
+Emails or conversations?
+Interviewer or interviewee?
+Physical work or mental work?
+Leader or follower?
+Visual learner or verbal learner?
+Show or tell?
+Pep talk or motivational quote?
+Salary or hourly?
+Raise or bonus?
+Introvert or extrovert?
+Big company or small company?
+Startup or established business?
+Book smarts or street smarts?
+Education or experience?
+Speed or accuracy?
+Private office or reserved parking spot?
+Group feedback or one on one feedback?
+Loose guidelines or clear directions?
+Company retreat or company holiday party?
+Team building after work or team building on the weekend?
+Chocolate or vanilla?
+Cookies or brownies?
+Pizza or tacos?
+Winter or summer?
+Puppies or kittens?
+Dragons or unicorns?
+Outer space or the bottom of the sea?
+Running or walking?
+Toys or candy?
+Ninjas or pirates?
+Christmas or your birthday?
+Halloween or Christmas?
+Beach or pool?
+TV or movies?
+Football or soccer?
+Swimming or building sand castles?
+No homework or no bedtime?
+Flying or turning invisible?
+Batman or Superman?
+Lions or tigers?
+Sharks or dolphins?
+Pandas or koalas?
+Ice cream or cake?
+Volcano or mountain?
+Sun or moon?
+Zoo or aquarium?
+Hamburgers or hot dogs?
+Sandwiches with crusts or no crusts?
+Fruits or vegetables?
+Disneyworld or Legoland?
+Singing or dancing?
+Sweet or sour?
+Pizza party or pool party?
+Lake or ocean?
+Smartest person in the world or richest person in the world?
+Save 100 strangers or one loved one?
+See the future or change the past?
+Time machine or magic wand?
+Sight or sound?
+Logic or emotion?
+Words or actions?
+Passion or stability?
+Predictability or excitement?
+Growth or security?
+Money or love?
+Success or happiness?
+Apathy or obsession?
+Skill or popularity?
+Poor and happy or rich and miserable?
+Cherished or respected?
+Intense pain for ten minutes or dull pain for one day?
+Misunderstood after death or forgotten after death?
+Hero or antihero?
+Happy endings or sad endings?
+Overly optimistic or overly pessimistic?
+False hope or unnecessary anxiety?
+Massive success by accident or modest success on purpose?
+Rekindled friendship or rekindled romance?
+Regret or doubt?
+Underestimated or overestimated?
+No company or bad company?
+Painful truth or comforting lie?
+Pause time or rewind time?
+Free travel for one year or free lodging for five years?
+Second chance at love or second chance for your career?
+Wash dishes immediately or wait until the sink is full?
+Clothes on the floor or clothes in the hamper?
+Sweeping or vacuuming?
+Laundry or dishes?
+Mowing the yard or weeding the garden?
+Clutter in the closet or clutter under the bed?
+Dirty bathroom or dirty kitchen?
+Muddy floor or dusty floor?
+Load the dishwasher or unload the dishwasher?
+Clean a litter box or walk a dog?
+Bath or shower?
+Hand soap or hand sanitizer?
+Rake or shovel?
+Sponge or paper towel?
+Bar soap or body wash?
+Showers or baths?
+Subtly stained clothes or obviously wrinkled clothes?
