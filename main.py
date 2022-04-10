@@ -36,7 +36,7 @@ COLOR_BLUE = 0x0094E6
 print("=" * 25)
 print("Conversational Games Bot")
 print("=" * 25)
-print("1.0.0 | Release | By Alan", '\n')
+print("1.0.0 | Release | By Anomic", '\n')
 
 ## Functions.
 def parse_list_file(file_path: str) -> list:
